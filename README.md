@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4e863df350117884989a2.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Clara - MD</h1>
+<h1 align="center">Kιɳα Bσƚ</h1>
 
 
 ## Baca Sebelum Pakai!!
