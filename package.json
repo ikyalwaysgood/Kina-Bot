@@ -1,5 +1,5 @@
 {
-    "name": "Clara-MD",
+    "name": "Kina Bot",
     "version": "1.1.2",
     "description": "Whatsapp Bot MD",
     "main": "index.js",
@@ -22,16 +22,16 @@
         "whatsapp",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Xyroinee/Clara-MD",
+    "homepage": "https://github.com/ikyalwaysgood/Kina-Bot",
     "author": {
-        "name": "Xyroinee"
+        "name": "Iky Official"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Xyroinee/Clara-MD.git"
+        "url": "git+https://github.com/ikyalwaysgood/Kina-Bot.git"
     },
     "bugs": {
-        "url": "https://github.com/Xyroinee/Clara-MD/issues"
+        "url": "https://github.com/ikyalwaysgood/Kina-Bot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
