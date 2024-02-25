@@ -33,7 +33,7 @@ global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
 global.lol = 'GataDios'
-global.rose = 'Apikeymu'
+global.rose = '4b884384e3773477bd9166ba'
 global.xyro = '3WIq7q3CWt'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
