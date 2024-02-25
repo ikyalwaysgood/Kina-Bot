@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/da3dd014f4481e4bbd089.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Kιɳα Bσƚ</h1>
 
