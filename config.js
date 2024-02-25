@@ -32,8 +32,8 @@ global.wait = 'Sedang Di Proses, Mohon Tunggu....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.lol = 'apikeymu'
-global.rose = 'apikeymu'
+global.lol = 'GataDios'
+global.rose = '3WIq7q3CWt'
 global.xyro = 'apikeymu'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
